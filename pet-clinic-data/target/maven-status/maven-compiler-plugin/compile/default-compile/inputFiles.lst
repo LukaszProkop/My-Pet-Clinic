@@ -1,7 +1,11 @@
 C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekty-spring\My-Pet-Clinic\pet-clinic-data\src\main\java\com\springframework\mypetclinic\model\Owner.java
 C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekty-spring\My-Pet-Clinic\pet-clinic-data\src\main\java\com\springframework\mypetclinic\services\CrudService.java
+C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekty-spring\My-Pet-Clinic\pet-clinic-data\src\main\java\com\springframework\mypetclinic\services\PetTypeService.java
 C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekty-spring\My-Pet-Clinic\pet-clinic-data\src\main\java\com\springframework\mypetclinic\services\map\PetServiceMap.java
+C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekty-spring\My-Pet-Clinic\pet-clinic-data\src\main\java\com\springframework\mypetclinic\model\Visit.java
 C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekty-spring\My-Pet-Clinic\pet-clinic-data\src\main\java\com\springframework\mypetclinic\services\VetService.java
+C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekty-spring\My-Pet-Clinic\pet-clinic-data\src\main\java\com\springframework\mypetclinic\model\Specialty.java
+C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekty-spring\My-Pet-Clinic\pet-clinic-data\src\main\java\com\springframework\mypetclinic\services\map\PetTypeMapService.java
 C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekty-spring\My-Pet-Clinic\pet-clinic-data\src\main\java\com\springframework\mypetclinic\model\Person.java
 C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekty-spring\My-Pet-Clinic\pet-clinic-data\src\main\java\com\springframework\mypetclinic\services\map\OwnerServiceMap.java
 C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekty-spring\My-Pet-Clinic\pet-clinic-data\src\main\java\com\springframework\mypetclinic\model\Pet.java
@@ -10,5 +14,7 @@ C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekt
 C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekty-spring\My-Pet-Clinic\pet-clinic-data\src\main\java\com\springframework\mypetclinic\services\map\VetServiceMap.java
 C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekty-spring\My-Pet-Clinic\pet-clinic-data\src\main\java\com\springframework\mypetclinic\services\map\AbstractMapService.java
 C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekty-spring\My-Pet-Clinic\pet-clinic-data\src\main\java\com\springframework\mypetclinic\model\Vet.java
+C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekty-spring\My-Pet-Clinic\pet-clinic-data\src\main\java\com\springframework\mypetclinic\services\map\SpecialtyMapService.java
 C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekty-spring\My-Pet-Clinic\pet-clinic-data\src\main\java\com\springframework\mypetclinic\services\OwnerService.java
+C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekty-spring\My-Pet-Clinic\pet-clinic-data\src\main\java\com\springframework\mypetclinic\services\SpecialtyService.java
 C:\Users\Toshiba\Downloads\Udemy-Spring-Framework-5-Beginner-to-Guru-new\projekty-spring\My-Pet-Clinic\pet-clinic-data\src\main\java\com\springframework\mypetclinic\model\PetType.java
