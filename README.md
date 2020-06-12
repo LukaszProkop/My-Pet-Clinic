@@ -1,1 +1,1 @@
-# My-Pet-Clinic
+# Java + Spring MVC + h2 /Pet Clinic Web Service/ (in progress...)
