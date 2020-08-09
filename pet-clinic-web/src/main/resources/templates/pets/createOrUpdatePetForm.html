@@ -16,6 +16,7 @@
           <span th:text="${pet.owner?.firstName + ' ' + pet.owner?.lastName}" />
         </div>
       </div>
+      <input type="hidden" th:field="*{owner}">
       <input
         th:replace="~{fragments/inputField :: input ('Name', 'name', 'text')}" />
       <input
